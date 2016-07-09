@@ -1,0 +1,52 @@
+
+Instructions to compile:
+make
+that's it, now just click in bobblebubble .
+
+Keys:
+Player 1:
+cursors - sides
+Enter - shoot bubble
+Player 2:
+W,A,S,D - sides
+Left Shift - shoot bubble
+
+
+BobbleBubble 0.1
+----------------
+
+This is just a basic engine to see if anyone wants to
+continue this work. Primarly, it was for this group of
+developers: http://bubbob.sourceforge.net/
+
+It uses the SDL library. Although it was only tested in a
+GNU/Linux system, it should work fine in others unices
+(FreeBSD, MacOSX...).
+
+BobbleBubble 0.2
+-----------
+
+Tomble has incentivated me to release a new version,
+so here it is. He sent the new enemies and a couple
+of tiles graphics.
+Alexander Kj�l contributed with some code used by
+the menu and pointed to some memory leaks.
+There are a couple of other improvements that have
+been asked by players.
+Ingo Ruhnke contributed with the Tux graphics.
+
+I am not maintaing this game (it was never my intention
+to do so), so if you want to grab the code and do
+something more with it, please contact me.
+The code was done a couple of years ago and I was very
+unexperienced and it is very visible by the use of arrays,
+rather than the STL dynamic size vectors, and many other
+stuff that go from the naming of variables and functions
+to English mistakes (it ain't my native language).
+I might be willing to make a re-code, if you are seriously
+willing to develop it further.
+
+
+by Ricardo Cruz
+<ricardo.pdm.cruz@gmail.com>
+http://rpmcruz.planetaclix.pt/
